@@ -1,0 +1,13 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minumum-stability": "stable",
+    "license": "properietary",
+    "authors": [
+        {"name": "Jovi Wee Pei Yi",
+        "email": "20008787@myrp.edu.sg"
+        }
+    ],
+    "require": {
+    }
+}
